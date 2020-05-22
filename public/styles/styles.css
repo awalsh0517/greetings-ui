@@ -1,0 +1,19 @@
+.page {
+  margin: 60px auto 0;
+  text-align: center;
+  width: 60%;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.inputField {
+  outline: none;
+  border-radius: 8px;
+  border: 1px solid black;
+  padding: 5px;
+  font-size: 18px;
+}
